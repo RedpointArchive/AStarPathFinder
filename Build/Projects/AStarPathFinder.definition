@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="AStarPathFinder" Path="AStarPathFinder" Type="Library">
+  <References>
+    <Reference Include="System" />
+  </References>
+  <Files>
+    <Compile Include="AuthorAttribute.cs" />
+    <Compile Include="IPathFinder.cs" />
+    <Compile Include="PathFinder.cs" />
+    <Compile Include="PathFinderFast.cs" />
+    <Compile Include="PathFinderHelper.cs" />
+    <Compile Include="Point.cs" />
+    <Compile Include="PriorityQueueB.cs" />
+  </Files>
+</Project>
