@@ -2,6 +2,7 @@
 <Project Name="AStarPathFinder" Path="AStarPathFinder" Type="Library">
   <References>
     <Reference Include="System" />
+    <Reference Include="System.Core" />
   </References>
   <Files>
     <Compile Include="AuthorAttribute.cs" />
